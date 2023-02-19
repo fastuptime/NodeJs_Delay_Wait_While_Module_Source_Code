@@ -1,6 +1,6 @@
 # NodeJs_Delay_Wait_While_Module_Source_Code
 
-```
+```js
 const {
     Delay,
     DelayMs

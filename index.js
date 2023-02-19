@@ -1,0 +1,2 @@
+module.exports.DelayMs = function DelayMs(ms) { return new Promise(resolve => setTimeout(resolve, ms)); };
+module.exports.Delay = function Delay(sec) { return new Promise(resolve => setTimeout(resolve, sec * 1000)); };

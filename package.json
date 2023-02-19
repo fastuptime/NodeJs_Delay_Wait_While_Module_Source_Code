@@ -1,0 +1,24 @@
+{
+  "name": "wait-while",
+  "version": "1.0.0",
+  "description": "Wait While",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "wait",
+    "delay",
+    "while",
+    "loop",
+    "async",
+    "time"
+  ],
+  "author": "Can & FastUptime",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fastuptime/NodeJs_Delay_Wait_While_Module_Source_Code.git"
+  }
+}
